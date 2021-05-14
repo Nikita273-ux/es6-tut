@@ -15,5 +15,9 @@
     "url": "https://github.com/Nikita273-ux/es6-tut/issues"
   },
   "homepage": "https://github.com/Nikita273-ux/es6-tut#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "prompt-sync": "^4.2.0"
+  }
 }
